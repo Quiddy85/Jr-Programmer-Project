@@ -1,0 +1,8 @@
+-What do you need to implement, and where will you implement it? Write down your thoughts now, to compare them with the approach we take.
+We need to implement a save/load feature that reads a file that contains the colour. That colour will pass into the MainManager color veriable, the unit code will be unaffected because it only reads from MainManager.
+
+-Where have you encountered similar functionality before, in Create with Code or other learning experiences? Even if you can’t access the code, think about examples of data persistence between sessions that you’re familiar with.
+RPG games where you have to load and save the inventory, player loadout and current/past missions.
+
+-Beyond Unity Learn, what resources could help you do this? Think about options within the Unity ecosystem and beyond it.
+I can Google about what I am trying to do, talk to/email the creator community.
